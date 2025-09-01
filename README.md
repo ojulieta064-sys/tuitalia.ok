@@ -1,2 +1,2 @@
-# tuitalia.ok
+# tuitalia.o
 ciudadanias y visas.
